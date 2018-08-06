@@ -1,0 +1,4 @@
+*.bin
+*.ini
+_COM*
+usb_driver
