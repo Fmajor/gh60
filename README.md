@@ -37,7 +37,7 @@ Fn 23 and Fn 24 are 'tab pre' and 'tab next', they can switch between all kinds 
 * When layer n (n>0) are active, the CapsLock light is on.
 # Build
 ``` bash
-$ make ubuntu_tools ## if you do not use ubuntu, install the packages by yourself
+$ make ubuntu_tools # if you do not use ubuntu, install the packages by yourself
 $ make # build the frame
 $ make flash # flash it
 ```
