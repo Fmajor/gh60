@@ -131,6 +131,12 @@ VPATH += $(TMK_DIR)
 include $(TMK_DIR)/protocol/lufa.mk
 include $(TMK_DIR)/common.mk
 include $(TMK_DIR)/rules.mk
+ubuntu_tools:
+	sudo apt-get update
+	sudo apt-get upgrade
+	sudo apt-get install -y git unzip build-essential
+	sudo apt-get install -y make gcc-avr avr-libc binutils-avr dfu-programmer
+	sudo apt-get install -y binutils-arm-none-eabi gcc-arm-none-eabi libnewlib-arm-none-eabi libstdc++-arm-none-eabi-newlib dfu-util
 flash:
 	bash flash.sh
 reflash:
