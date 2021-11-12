@@ -7,13 +7,13 @@ Build with
 * https://github.com/kairyu/tkg-toolkit
 * http://www.keyboard-layout-editor.com/
 # Layers
-* Layer 7 (Layer switcher): http://www.keyboard-layout-editor.com/#/gists/7215754963a5c06f8fc111e3f0a3c1dd
-![Layer7](layer7.png)
-* Layer 6 (Mouse layer): http://www.keyboard-layout-editor.com/#/gists/5112b634bb41e640fe46fa641a4392d3
+* Layer 7 ([Layer switcher](http://www.keyboard-layout-editor.com/#/gists/7215754963a5c06f8fc111e3f0a3c1dd))
+![Layer7](layer7.png))): 
+* Layer 6 ([Mouse layer](http://www.keyboard-layout-editor.com/#/gists/5112b634bb41e640fe46fa641a4392d3)): 
 ![Layer6](layer6.png)
-* Layer 5 (Navigation): http://www.keyboard-layout-editor.com/#/gists/02b061bc00c46da3019d0567ff473696
+* Layer 5 ([Navigation](http://www.keyboard-layout-editor.com/#/gists/02b061bc00c46da3019d0567ff473696)): 
 ![Layer5](layer5.png)
-* Layer 0 (Default layer): http://www.keyboard-layout-editor.com/#/gists/448ce7bcb36235243dcf02ed5bb38555
+* Layer 0 ([Default layer](http://www.keyboard-layout-editor.com/#/gists/448ce7bcb36235243dcf02ed5bb38555)): 
 ![Layer0](layer0.png)
 # Function keys
 *  Fn5: Use navigation layer, use the most
